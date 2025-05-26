@@ -157,7 +157,7 @@ Loan_Ratio = DIVIDE(CALCULATE(COUNTROWS('Data'), 'Data'[Loan_Status] = "Yes"), C
 ## 📬 Contact
 
 - **GitHub**: [samberish19](https://github.com/samberish19)
-- **Email**: your_email@example.com *(Replace with your actual email)*
+- **Email**: samberish19@gmail.com
 
 ---
 
